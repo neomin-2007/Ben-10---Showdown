@@ -1,0 +1,1 @@
+/home/neomin/Documentos/Programming\ Works/Rust/Ben-10-Showdown/sources/target/debug/sources: /home/neomin/Documentos/Programming\ Works/Rust/Ben-10-Showdown/sources/src/data.rs /home/neomin/Documentos/Programming\ Works/Rust/Ben-10-Showdown/sources/src/main.rs
